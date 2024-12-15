@@ -1,0 +1,3 @@
+[submodule "Machine Vision Lab"]
+	path = Machine Vision Lab
+	url = git@github.com:nirajitpramanik/machine-vision-lab.git
