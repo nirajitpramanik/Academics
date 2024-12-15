@@ -4,3 +4,9 @@
 [submodule "Web Programming Lab"]
 	path = Web Programming Lab
 	url = https://github.com/nirajitpramanik/web-programming
+[submodule "Machine Learning"]
+	path = Machine Learning
+	url = git@github.com:nirajitpramanik/Machine-Learning-Lab.git
+[submodule "Database Systems"]
+	path = Database Systems
+	url = git@github.com:nirajitpramanik/DBMS-Lab.git
