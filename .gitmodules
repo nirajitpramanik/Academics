@@ -1,3 +1,6 @@
 [submodule "Machine Vision Lab"]
 	path = Machine Vision Lab
 	url = git@github.com:nirajitpramanik/machine-vision-lab.git
+[submodule "Web Programming Lab"]
+	path = Web Programming Lab
+	url = https://github.com/nirajitpramanik/web-programming
